@@ -1,0 +1,104 @@
+
+#zero {
+	margin:auto;
+	width:800px;
+	height:500px;
+	background-color: #FF9671;
+}
+
+#one {
+	margin:0 auto;
+	width:800px;
+	height:400px;
+	background-color: #FF9671;
+}
+#two {
+	margin:0 auto;
+	width:800px;
+	height:100px;
+	background-color: #845EC2;
+}
+#three {
+	margin:0 auto;
+	width:800px;
+	height:100px;
+	background-color: #FFC75F;
+}
+
+#four {
+	margin:0 auto;
+	width:800px;
+	height:500px;
+	background-color: #FF9671;
+}
+#five {
+	width:200px;
+	height:500px;
+	background-color: #FF6F91;
+	float: left;
+}
+
+#six {
+	margin:0 auto;
+	width:800px;
+	height:100px;
+	background-color: #845EC2;
+}
+#seven {
+	margin:0 auto;
+	width:800px;
+	height:300px;
+	background-color: #FF9671;
+}
+#eight{
+	margin:0 auto;
+	width:800px;
+	height:100px;
+	background-color: #FFC75F;
+}
+#nine {
+	margin:0 auto;
+	width:200px;
+	height:300px;
+	background-color:#FF6F91;
+	float: left;
+}
+
+#ten {
+	margin:0 auto;
+	width:800px;
+	height:100px;
+	background-color: #845EC2;
+}
+#eleven {
+	margin:0 auto;
+	width:800px;
+	height:50px;
+	background-color: #D65DB1;
+}
+#twelve {
+	margin:0 auto;
+	width:800px;
+	height:300px;
+	background-color: #FF9671;
+}
+#thirteen {
+	margin:0 auto;
+	width:200px;
+	height:300px;
+	background-color: #FF6F91;
+	float: left;
+}
+#fourteen {
+	margin:0 auto;
+	width:200px;
+	height:300px;
+	background-color: #FF6F91;
+	float: right;
+}
+#fifteen {
+	margin:0 auto;
+	width:800px;
+	height:100px;
+	background-color: #FFC75F;
+}
